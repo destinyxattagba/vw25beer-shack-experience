@@ -1,0 +1,5 @@
+C:/Users/desti/Desktop/CIMVR/Getting Started/.utmp/Debug/163j6221/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/desti/Desktop/CIMVR/Getting Started/.utmp/Debug/163j6221/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/desti/Desktop/CIMVR/Getting Started/.utmp/Debug/163j6221/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/desti/Desktop/CIMVR/Getting Started/.utmp/Debug/163j6221/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/desti/Desktop/CIMVR/Getting Started/.utmp/Debug/163j6221/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
